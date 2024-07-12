@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      # mongodb://username:password@host:port/db
+      uri: mongodb://od:test@158.179.167.191:27017/test-db
